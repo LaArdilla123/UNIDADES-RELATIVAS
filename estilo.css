@@ -1,0 +1,30 @@
+body{
+    background: hsla(192, 100%, 50%, 0.718);
+}
+h1{
+    font-size: 1.05rem;
+    color: rgb(255,0,0);
+}
+h2{
+    font-size: 1.25rem;
+    color: #ff0000;
+}
+h3{
+    font-size: 1.5;
+    color: hsl(0,100%, 50%);
+}
+h4{
+    font-size: 1.75rem;
+}
+h5{
+    font-size: 2rem;
+}
+h6{
+    font-size: 2.5rem;
+}
+#ninja{
+    width: 30%;
+}
+#regia{
+    width: 30%;
+}
